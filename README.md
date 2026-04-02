@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TONLIEN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://neuralforge-bot.github.io)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](neuralforge.ai@gmail.com)
 
 ---
 
@@ -82,4 +82,4 @@ I design and deploy **AI agents & automated workflows** for service businesses â
 
 **Got a repetitive task eating your team's time? Let's automate it.** ðŸ¤–
 
-[![Let's Talk](https://img.shields.io/badge/Let's_Talk-00C853?style=for-the-badge)](mailto:ton@email.com)
+[![Let's Talk](https://img.shields.io/badge/Let's_Talk-00C853?style=for-the-badge)](neuralforge.ai@gmail.com)
